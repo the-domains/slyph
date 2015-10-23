@@ -1,0 +1,23 @@
+name: slyph
+favicon: null
+layout_spectrum: 0.24928068206645548
+typography_spectrum: 0.26407233718782663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7965584381017834
+  lightness: 0.6955374220851809
+  saturation: 0.23449642187915742
+  rhythmicContrast: 0.531532809138298
+purpose: []
